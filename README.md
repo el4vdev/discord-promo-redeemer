@@ -1,4 +1,4 @@
-# Discord-promo-redeemer
+# Discord-promo-redeemer UPDATED 5.7.24
 Install:
 
 Python ofcourse
