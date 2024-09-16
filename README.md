@@ -1,7 +1,7 @@
-# Discord-promo-redeemer UPDATED 5.7.24.
+# Discord-promo-redeemer UPDATED 17.9.24.
 Install:
 
-Python ofcourse
+Python ofcourse UPDATED WITH MANY NEW FUNCTIONS
 
 in cmd : pip install -r requirements.txt
 
